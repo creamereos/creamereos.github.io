@@ -3,7 +3,7 @@ layout: post
 title: "TEST"  
 subtitle: "TEST"  
 categories: dev  
-tags: blog test  
+tags: html
 comments: true  
 header-img: img/review/review-book-elastic-habits-1.png
 ---  
