@@ -3,7 +3,7 @@ layout: post
 title: "TEST"  
 subtitle: "TEST"  
 categories: dev  
-tags: html
+tags: html HTML
 comments: true  
 ---  
 

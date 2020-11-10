@@ -3,7 +3,7 @@ layout: post
 title:  "[Setup] 딥러닝 개발 환경 구축 한방에 끝내기"
 subtitle:   "How to build a deep learning environment with python"
 categories: dev
-tags: dl data science ai python local deep learning setup build
+tags: dl data science ai python local deep learning setup build HTML
 comments: true
 ---
 
