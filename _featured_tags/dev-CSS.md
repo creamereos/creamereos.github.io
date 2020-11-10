@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: CSS
+slug: CSS
 category: dev
 menu: false
-order: 1
+order: 9
 ---

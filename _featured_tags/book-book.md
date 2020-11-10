@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: Book
+slug: book
+category: book
 menu: false
 order: 1
 ---
