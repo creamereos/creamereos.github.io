@@ -5,7 +5,7 @@ subtitle: "TEST"
 categories: dev  
 tags: html
 comments: true  
-header-img: img/review/review-book-elastic-habits-1.png
+header-img: 
 ---  
 
 블로그 테스트 문서.
