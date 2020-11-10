@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               TheoryDB
+title:               CREAMer 
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -137,6 +137,6 @@ tipue_search:
     files: [search.html, index.html, tags.html]
     categories: []
     tags: []
-    
+
 
 theme: jekyll-theme-hacker
