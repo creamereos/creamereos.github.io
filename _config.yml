@@ -6,14 +6,14 @@ title:               CREAMer
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://theorydb.github.io
+url:                 https://creamereos.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "Cash Rules Everything Around Me."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
