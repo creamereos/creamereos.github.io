@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 4
 description: >
-  언젠가는.
+  Start!
 ---
