@@ -5,7 +5,6 @@ subtitle: "TEST"
 categories: dev  
 tags: html
 comments: true  
-header-img: 
 ---  
 
-블로그 테스트 문서.
+블로그 테스트 문서. 
