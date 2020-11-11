@@ -3,7 +3,7 @@ layout: post
 title: CSS-Page Layout
 subtitle: Grid System, Boot Strap
 categories: dev
-tags: css grid
+tags: dev css grid
 comments: true  
 --- 
 
