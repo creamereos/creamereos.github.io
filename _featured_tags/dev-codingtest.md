@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Algorithm
-slug: algorithm
+title: Coding Test
+slug: codingtest
 category: dev
 menu: false
 order: 5
