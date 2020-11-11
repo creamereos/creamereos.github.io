@@ -38,7 +38,7 @@ answer 배열을 sort 해준다.
 주의! 단순한 sort 함수로는 유니코드 순서로 정렬되니 다른 sort 함수를 사용해주어야한다. (ex. 단순 sort 정렬시 10보다 2가 뒤에 나온다.)
 
 - 나머지가 0인 요소가 없는 경우
-위 for/if 문을 통과하지 못한 요소는 배열 answer에 없기 때문에 answer의 length가 0인 경우 answer은 [-1]
+위 for & if 문을 통과하지 못한 요소는 배열 answer에 없기 때문에 answer의 length가 0인 경우 answer은 [-1]
 ```
 
 # Answer
