@@ -1,15 +1,11 @@
 ---  
 layout: post  
-title: CSS - Page Layout
+title: [CSS] Page Layout
 subtitle: Grid System, Boot Strap
 categories: dev css  
 tags: css grid
 comments: true  
 --- 
-
-- Table
-	- [Grid System](#Grid-System) 
-	- [Boot Strap](#Boot-Strap)
 
 ### Grid System
 페이지 전체를 나눠서 설계
