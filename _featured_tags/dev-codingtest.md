@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Java Script
-slug: javascript
+title: Coding Test
+slug: codingtest
 category: dev
 menu: false
-order: 5
+order: 6
 ---
