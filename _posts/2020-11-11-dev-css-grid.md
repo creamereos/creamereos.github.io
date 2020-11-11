@@ -7,8 +7,6 @@ tags: css grid
 comments: true  
 --- 
 
-# Page Layout
-
 ### Grid System
 페이지 전체를 나눠서 설계
 
@@ -62,7 +60,7 @@ column 양쪽의 여백.
     </div>
 ```
 
-![](_posts/images/2020-11-11-17-20-32.png)
+![반응형 부트스트랩 레이아웃](images/2020-11-11-17-46-34.png)
 
-[부트스트랩 레이아웃 반응형](https://getbootstrap.com/docs/4.5/layout/overview/)
+[반응형 부트스트랩 레이아웃](https://getbootstrap.com/docs/4.5/layout/overview/)
 
