@@ -62,7 +62,7 @@ https://getbootstrap.com/
     </div>
 ```
 
-![](_posts/images/2020-11-11-17-02-14.png)
+![img](_posts/images/2020-11-11-17-02-14.jpg)
 
 부트스트랩 레이아웃 반응형 관련 : https://getbootstrap.com/docs/4.5/layout/overview/
 
