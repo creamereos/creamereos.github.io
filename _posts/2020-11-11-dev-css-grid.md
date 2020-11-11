@@ -62,7 +62,7 @@ column 양쪽의 여백.
     </div>
 ```
 
-![img](_posts/images/2020-11-11-17-02-14.jpg)
+![](_posts/images/2020-11-11-17-20-32.png)
 
 [부트스트랩 레이아웃 반응형](https://getbootstrap.com/docs/4.5/layout/overview/)
 
