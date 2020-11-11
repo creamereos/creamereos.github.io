@@ -4,5 +4,5 @@ title: Coding Test
 slug: codingtest
 category: dev
 menu: false
-order: 6
+order: 4
 ---
