@@ -68,4 +68,3 @@ column 양쪽의 여백.
 
 ![](/images/2020-11-11-18-01-23.png)
 
-![표지](https://theorydb.github.io/assets/img/review/review-book-booket-list-1.png) 
