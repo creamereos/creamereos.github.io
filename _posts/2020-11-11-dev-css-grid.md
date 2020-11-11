@@ -28,7 +28,7 @@ column 양쪽의 여백.
 
 [부트스트랩 프레임워크](https://getbootstrap.com/)
 
-**conainer의 자식은 반드시 row, row의 자식은 반드시 col로 시작.**
+**container의 자식은 반드시 row, row의 자식은 반드시 col로 시작.**
 
 ```html
 <html>
@@ -68,3 +68,4 @@ column 양쪽의 여백.
 
 [반응형 부트스트랩 레이아웃](https://getbootstrap.com/docs/4.5/layout/overview/)
 
+![](images/2020-11-11-17-56-26.png)
