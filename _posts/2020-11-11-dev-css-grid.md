@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: [CSS] Page Layout
+title: CSS-Page Layout
 subtitle: Grid System, Boot Strap
 categories: dev css  
 tags: css grid
