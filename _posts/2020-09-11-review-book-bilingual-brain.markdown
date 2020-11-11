@@ -13,7 +13,6 @@ header-img: img/review/review-book-bilingual-brain-1.png
 ![표지](https://theorydb.github.io/assets/img/review/review-book-bilingual-brain-1.png)  
 
 ---
-
 > 아기는 어떻게 언어를 습득할까? 이중 언어 구사자들은 주의력이 더 좋을까? 혹은 머리가 더 좋거나 치매에 걸릴 확률이 줄어들까? 그리고 이런 것들은 어떻게 측정할까?
 
 본 도서는 위 질문들에 대한 대답이다. 저자는 평생에 걸쳐 연구한 이중 언어 사용과 뇌라는 주제를 이해하기 쉽게 저술한다. 
