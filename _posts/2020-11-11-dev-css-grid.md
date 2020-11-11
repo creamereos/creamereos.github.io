@@ -24,7 +24,7 @@ column 양쪽의 여백.
 #### Boot Strap
 반응형 grid system 프레임워크
 
-https://getbootstrap.com/
+[부트스트랩 프레임워크](https://getbootstrap.com/)
 
 **conainer의 자식은 반드시 row, row의 자식은 반드시 col로 시작.**
 
@@ -64,5 +64,5 @@ https://getbootstrap.com/
 
 ![img](_posts/images/2020-11-11-17-02-14.jpg)
 
-부트스트랩 레이아웃 반응형 관련 : https://getbootstrap.com/docs/4.5/layout/overview/
+[부트스트랩 레이아웃 반응형](https://getbootstrap.com/docs/4.5/layout/overview/)
 
