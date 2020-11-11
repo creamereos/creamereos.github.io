@@ -1,12 +1,12 @@
----
+---  
 layout: post
 title: 몰입
 subtitle: WORK HARD가 아닌 THINK HARD
-gh-repo: creamereos/creamereos.github.io
-gh-badge: [star, follow]
-tags: [자기계발, 황농문]
-comments: true
----
+categories: book
+tags: 자기계발, 황농문
+comments: true  
+--- 
+
 **생각하고 집중하고 몰입하라**
 
 # 내 삶에 적용하기
