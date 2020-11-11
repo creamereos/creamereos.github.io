@@ -66,4 +66,4 @@ column 양쪽의 여백.
 
 [반응형 부트스트랩 레이아웃](https://getbootstrap.com/docs/4.5/layout/overview/)
 
-![](assets/img/post/2020-11-11-21-47-28.png)
+![](/assets/img/post/2020-11-11-21-50-36.png)
