@@ -6,11 +6,6 @@ categories: dev
 tags: codingtest
 comments: true  
 --- 
-
-
-[최대 공약수 / 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
-
-# coding test
 수포자는 수학을 포기한 사람의 준말입니다. 수포자 삼인방은 모의고사에 수학 문제를 전부 찍으려 합니다. 수포자는 1번 문제부터 마지막 문제까지 다음과 같이 찍습니다.
 
 1번 수포자가 찍는 방식: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, ...

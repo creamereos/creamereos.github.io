@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: JavaScript Coding Test-나누어 떨어지는 숫자 배열
+title: JS Coding Test-나누어 떨어지는 숫자 배열
 subtitle: 
 categories: dev
 tags: codingtest sort filter map
