@@ -28,3 +28,21 @@ comments: true
 
 ### API
 - API(Application Programming Interface) 프로그램이 동작하는 환경을 제어하기 위해서 환경에서 제공되는 조작 장치이다. 이 조작 장치는 프로그래밍 언어를 통해서 조작할 수 있다. 
+
+- reference : 명령어의 사전을 의미
+
+- tutorial : 언어의 문법을 설명
+
+### 자바스크립트 API 문서 (우선 학습)
+- ECMAScript (표준문서)
+- 자바스크립트 사전 (생활코딩)
+- 자바스크립트 레퍼런스 (MDN)
+- jscript 레퍼런스 (MSDN)
+
+### 호스트 환경의 API 문서 (추후 학습)
+- 웹브라우저 API
+- Node.js API
+- Google Apps Script API
+- React
+
+출처 : https://opentutorials.org/course/743/6533
