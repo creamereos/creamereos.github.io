@@ -6,16 +6,8 @@ tags: HTML CSS JS
 comments: true
 ---
 
-# 계산기 만들기
+1. CSS GRID
 
-### HTML
-- Markup
-
-```HTML
-
-```
-
-### CSS
 - grid
 ```css
 * {
@@ -55,6 +47,23 @@ comments: true
     padding: 0 5px;
 }
 ```
+
+
+2. HTML Mark up
+
+```HTML
+
+```
+
+3. JavaScript
+
+- Caluclate
+
+```javascript
+
+```
+
+4. CSS Style
 
 - style 
 ```css
@@ -165,10 +174,4 @@ button:hover {
         height: auto;
     }
 }
-```
-
-### 3.JavaScript
-
-```javascript
-
 ```
