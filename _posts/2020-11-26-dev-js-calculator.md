@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: 후위표기법
+title: JS - 후위표기식
 categories: dev
 tags: JS
 comments: true
@@ -39,6 +39,10 @@ comments: true
 
 예를 들어 2 + 2 * 2 라는 식이 있고 네번째 루프 즉 연산자 *의 루프에 있다고 가정해 봅시다. 스택의 top은 +이므로 *와 우선순위를 비교합니다. 곱셈은 덧셈보다 우선순위가 높으므로 출력하지 않고 그냥 *을 스택에 push 합니다.
 만약 스택에 연산자가 남아 있는 경우 마지막에 모두 출력해줍니다.
+
+
+
+### 예시 코드
 
 ```javascript
 let stack = [];
