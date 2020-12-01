@@ -13,6 +13,7 @@ comments: true
 ### 모듈 예시
 
 - var.js : 변수 모듈.
+
 ```javascript
 const odd = '홀수';
 const even = '짝수';
@@ -25,6 +26,7 @@ module.exports = {
     even,
 }
 ```
+
 이제 위 JS 파일은 모듈로서 기능하며, 다른 파일에서 이 파일을 불러오면 module.exports에 대입된 값을 사용 가능
 
 - func.js : 함수 모듈.
