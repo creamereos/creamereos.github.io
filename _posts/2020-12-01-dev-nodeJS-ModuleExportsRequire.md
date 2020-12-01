@@ -177,6 +177,7 @@ Module {
 ```
 
 - 현재 파일이 첫 모듈인지 확인 하는 방법
+
 ```javascript
 현재 파일 === module
 console.log(require.main === module)
@@ -194,6 +195,7 @@ console.log(require.main.filename);
 - 모듈 사용 시 주의 사항 : 두 모듈이 서로를 require하는 경우
 
 dep1.js
+
 ```javascript
 // 모듈 불러오기
 const dep2 =require('./dep2');
@@ -206,6 +208,7 @@ module.exports = () => {
 ```
 
 dep2.js
+
 ```javascript
 // 모듈 불러오기
 const dep1 =require('./dep1');
@@ -233,8 +236,18 @@ dep2();
 
 ```javascript
 require dep1 {}
-// dep1.의 module.exports가 함수가 아닌 빈 객체로 표시. 이러한 현상을 '순환 참조'라고한다. 순환 참조가 있을 경우 순환 참조가 되는 대상을 빈 객체로 만든다. 이 때 에러가 발생하지 않고 조용히 빈 객체로 변경되므로 예기치 못한 동작이 발생할 수 있다. 따라서 순환 참조가 발생하지 않도록 구조를 잘잡는 것이 중요하다.
 require dep2 [Function]
 dep2 [Function]
 dep1 {}
 ```
+
+- 결과 코드 실행 순서
+
+1. 코드가 맨 위에서부터 실행되므로 require('./dep1')이 먼저 실행
+2. dep1.js에서는 제일 먼저 require('./dep2)가 실행. 
+3. 다시 dep2.js에서는 require('./dep2')가 실행. 
+4. 이 과정이 계속 반복된다.
+
+- 결과 이유
+
+dep1.의 module.exports가 함수가 아닌 빈 객체로 표시. 이러한 현상을 **순환 참조**라고한다. 순환 참조가 있을 경우 **순환 참조가 되는 대상을 빈 객체**로 만든다. 이 때 에러가 발생하지 않고 조용히 빈 객체로 변경되므로 예기치 못한 동작이 발생할 수 있다. 따라서 순환 참조가 발생하지 않도록 구조를 잘잡는 것이 중요하다
