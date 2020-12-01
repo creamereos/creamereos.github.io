@@ -2,7 +2,7 @@
 layout: post
 title: 자바스크립트 이벤트 처리 방식 addEventListener
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 

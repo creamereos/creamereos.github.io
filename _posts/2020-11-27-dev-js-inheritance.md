@@ -2,7 +2,7 @@
 layout: post
 title: JS - 상속(inheritance)
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 **상속**은 **객체의 로직(메소드,변수)을 그대로 물려 받는 또 다른 객체를 만들 수 있는 기능**을 의미한다. 또한 **기존의 로직을 수정하고 변경**해서 파생된 **새로운 객체**를 만들 수 있게 해준다. 이처럼 부모의 기능을 계승 발전할 수 있는 것이 **상속의 가치**다.

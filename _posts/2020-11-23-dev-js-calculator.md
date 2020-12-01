@@ -2,7 +2,7 @@
 layout: post
 title: 계산기 만들기
 categories: dev
-tags: HTML CSS JS
+tags: HTML CSS javascript
 comments: true
 ---
 

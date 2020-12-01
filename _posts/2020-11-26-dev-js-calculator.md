@@ -2,7 +2,7 @@
 layout: post
 title: JS - 후위표기식
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 

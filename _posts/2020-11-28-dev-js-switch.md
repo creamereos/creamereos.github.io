@@ -2,7 +2,7 @@
 layout: post
 title: JS - switch
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: JS - closure
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 

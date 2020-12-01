@@ -2,7 +2,7 @@
 layout: post
 title: JS - data type / reference`
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 데이터 타입이란 데이터의 형태를 의미한다. 데이터 타입은 크게 두가지로 구분할 수 있다. 객체와 객체가 아닌 것.

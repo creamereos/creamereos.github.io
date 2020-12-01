@@ -2,7 +2,7 @@
 layout: post
 title: JS - 표준 내장 객체(standard built-in object)
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 - 표준 내장 객체 : javascript가 기본적으로 제공하는 객체

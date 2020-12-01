@@ -2,7 +2,7 @@
 layout: post
 title: JS - stack
 categories: dev
-tags: JS
+tags: javascript
 comments: true
 ---
 
