@@ -9,6 +9,7 @@ comments: true
 exports 객체로도 모듈 생성 가능.
 
 - var.js
+
 ```javascript
 exports.odd = '홀수';
 exports.even = '짝수';
@@ -217,6 +218,7 @@ module.exports = () => {
 ```
 
 dep-run.js (dep 모듈을 실행하는 js 파일)
+
 ```javascript
 // 모듈 불러오기
 const dep1 = require('./dep1');
@@ -228,6 +230,7 @@ dep2();
 ```
 
 - 결과
+
 ```javascript
 require dep1 {}
 // dep1.의 module.exports가 함수가 아닌 빈 객체로 표시. 이러한 현상을 '순환 참조'라고한다. 순환 참조가 있을 경우 순환 참조가 되는 대상을 빈 객체로 만든다. 이 때 에러가 발생하지 않고 조용히 빈 객체로 변경되므로 예기치 못한 동작이 발생할 수 있다. 따라서 순환 참조가 발생하지 않도록 구조를 잘잡는 것이 중요하다.
