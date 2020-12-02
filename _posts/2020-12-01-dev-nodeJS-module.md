@@ -90,3 +90,4 @@ function checkOddOrEven(num) {
 // 모듈 이름 설정
 export default checkOddOrEven;
 ```
+
