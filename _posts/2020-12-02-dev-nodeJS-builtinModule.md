@@ -11,6 +11,7 @@ comments: true
 - OS 모듈 : 운영체제 정보 가져오기
 
 os.js
+
 ```javascript
 // 모듈 불러오기
 const os = require('os');
