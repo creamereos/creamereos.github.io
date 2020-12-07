@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 내장 객체(global, console)
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 동기 메서드와 비동기 메서드, 블로킹과 논 블로킹
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

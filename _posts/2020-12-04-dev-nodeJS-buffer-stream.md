@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 버퍼와 스트림
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

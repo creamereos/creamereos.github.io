@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - REST와 라우팅
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

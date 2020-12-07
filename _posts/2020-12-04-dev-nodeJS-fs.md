@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 파일 시스템 접근하기 (fs module)
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

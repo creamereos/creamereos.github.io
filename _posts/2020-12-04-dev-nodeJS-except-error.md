@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 예외 처리하기(try/catch) / 자주 발생하는 에러
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

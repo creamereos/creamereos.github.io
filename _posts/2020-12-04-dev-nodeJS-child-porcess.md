@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - built-in module (child_process, etc)
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

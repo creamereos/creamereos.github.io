@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - cluster
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

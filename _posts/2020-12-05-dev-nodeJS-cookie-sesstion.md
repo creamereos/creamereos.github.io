@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 쿠키 / 세션
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

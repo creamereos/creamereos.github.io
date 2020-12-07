@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - worker_threads
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

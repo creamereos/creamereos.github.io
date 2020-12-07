@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 스레드 풀
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

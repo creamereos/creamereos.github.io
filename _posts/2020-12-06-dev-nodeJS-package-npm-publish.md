@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 패키지 배포하기
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

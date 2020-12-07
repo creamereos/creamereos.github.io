@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Node JS
-slug: nodeJS
+slug: node
 category: dev
 menu: false
 order: 6

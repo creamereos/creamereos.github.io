@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 요청과 응답
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

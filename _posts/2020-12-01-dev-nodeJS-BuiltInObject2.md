@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 내장 객체(timer, __filename, __dirname)
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

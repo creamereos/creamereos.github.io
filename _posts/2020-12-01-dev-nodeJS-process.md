@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - process
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

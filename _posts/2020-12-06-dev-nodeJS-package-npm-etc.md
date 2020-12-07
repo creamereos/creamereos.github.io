@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 기타 npm 명령어
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

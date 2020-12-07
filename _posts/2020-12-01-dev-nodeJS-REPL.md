@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - REPL & JS 파일 실행
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

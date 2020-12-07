@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 기타 fs 메소드
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

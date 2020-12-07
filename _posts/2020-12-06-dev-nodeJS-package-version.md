@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 패키지 버전
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

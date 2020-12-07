@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - 이벤트
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

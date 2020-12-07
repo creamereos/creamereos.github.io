@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - built-in module (os / path)
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 

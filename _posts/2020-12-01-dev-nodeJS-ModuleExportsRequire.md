@@ -2,7 +2,7 @@
 layout: post
 title: nodeJS - module, exports, require
 categories: dev
-tags: nodeJS
+tags: node
 comments: true
 ---
 
