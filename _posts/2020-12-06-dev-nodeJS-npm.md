@@ -21,13 +21,13 @@ $ npm init
 
 위 명령어를 입력하면 명령어 입력창이 계속 나온다. (일부 입력창은 선택 사항)
 
-**package name** : 패키지 이름 입력. (package.json의 name 속성에 저장)
-**version** : 패키지 버전 입력.
-**entry point** : 자바스크립트 실행 파일 진입점 입력. 보통 마지막으로 module.exports를 하는 파일을 지정한다. (package.json의 main 속성에 저장)
-**test command** : 코드를 테스할 때 입력할 명령어 입력. (package.json의 scripts 속성안의 test 속성에 저장)
-**git repository** : 코드를 저장해 둔 깃 저장소 주소 입력. 나중에 소스에 문제가 생겼을 때 사용자들이 이 저장소에 방문해 문제를 제기 할 수 있고, 코드 수정본을 올릴 수도 있다. (package.json의 repository 속성에 저장)
-**keywords** : 키워드는 npm 공식 홈페이지(https://npmjsd.com)에서 패키지를 쉽게 찾을 수 있도록 해준다. (package.json의 keywords 속성에 저장)
-**license** : 해당 패키지의 라이센스를 넣으면된다.(오픈 소스라고 해서 모든 패키지를 아무런 제약 없이 사용 할 수 있는 것은 아니다. 라이센스 별로 제한 사항이 있으므로 라이센스를 확인해야한다. 상용 프로그램 개발시 법적 문제 발생할 수도 있음.)
+- **package name** : 패키지 이름 입력. (package.json의 name 속성에 저장)
+- **version** : 패키지 버전 입력.
+- **entry point** : 자바스크립트 실행 파일 진입점 입력. 보통 마지막으로 module.exports를 하는 파일을 지정한다. (package.json의 main 속성에 저장)
+- **test command** : 코드를 테스할 때 입력할 명령어 입력. (package.json의 scripts 속성안의 test 속성에 저장)
+- **git repository** : 코드를 저장해 둔 깃 저장소 주소 입력. 나중에 소스에 문제가 생겼을 때 사용자들이 이 저장소에 방문해 문제를 제기 할 수 있고, 코드 수정본을 올릴 수도 있다. (package.json의 repository 속성에 저장)
+- **keywords** : 키워드는 npm 공식 홈페이지(https://npmjsd.com)에서 패키지를 쉽게 찾을 수 있도록 해준다. (package.json의 keywords 속성에 저장)
+- **license** : 해당 패키지의 라이센스를 넣으면된다.(오픈 소스라고 해서 모든 패키지를 아무런 제약 없이 사용 할 수 있는 것은 아니다. 라이센스 별로 제한 사항이 있으므로 라이센스를 확인해야한다. 상용 프로그램 개발시 법적 문제 발생할 수도 있음.)
 
 위 사항들을 입력한 후 yes를 누르면 package.json 파일이 생성 완료된다.
 
