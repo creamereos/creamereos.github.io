@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Node JS
-slug: node
+title: Type Script
+slug: ts
 category: dev
 menu: false
-order: 8
+order: 6
 ---
