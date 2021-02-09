@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: ES6 - Promise (All)
+title: ES6 - Promise
 categories: dev
 tags: js
 comments: true
@@ -164,4 +164,70 @@ const alllPromise = Promise.all([promise1, promise2, promise3]);
 // 개별 Promise에 .catch를 넣을 수 있지만 한번에 표시하는 게 가독성도 좋고 코드도 간결해짐
 alllPromise.then(result => console.log(result)).catch(err => console.log(err));
 // 에러에러에렁2
+```
+
+# Promise.race 
+- resolv로 나온 value든, catch로 나온 error든 가장 빨리 실행된 것만 실행 (race 경주로 생각하면 쉬움. 자주 사용하지는 않음)
+
+```js
+const promise1 = new Promise(resolv => {
+    setTimeout(resolv, 3000, "First");
+});
+
+const promise2 = new Promise(rejec => {
+    setTimeout(rejec, 1000, "에렁");
+});
+
+const promise3 = new Promise(resolv => {
+    setTimeout(resolv, 2000, "Third");
+});
+
+const promiseRace = Promise.race([promise1, promise2, promise3]);
+
+promiseRace.then(v => console.log(v)).catch(e => console.log(e));
+// Promise {<pending>}
+// 에렁
+
+const promise1 = new Promise(resolv => {
+    setTimeout(resolv, 1000, "First");
+});
+
+const promise2 = new Promise(rejec => {
+    setTimeout(rejec, 3000, "에렁");
+});
+
+const promise3 = new Promise(resolv => {
+    setTimeout(resolv, 2000, "Third");
+});
+
+Promise.race([promise1, promise2, promise3]).then(v => console.log(v)).catch(e => console.log(e));
+// First
+```
+
+# Pormise Finally
+
+- Promise에서 resolve 또는 reject 값을 실행하고 resolve되던 rejec되던 finally 실행 (보통 API 호출 시 사용)
+
+```js
+const promise1 = new Promise((resolv, rejec) => {
+    setTimeout(resolv, 1000, "First");
+}).then(v => console.log(v)).catch(e => console.log(e)).finally(() => console.log("Finally"));
+// First
+// Finally
+
+const promise2 = new Promise((resolv, rejec) => {
+    setTimeout(rejec, 1000, "에렁");
+}).then(v => console.log(v)).catch(e => console.log(e)).finally(() => console.log("Finally"));
+// 에렁
+// Finally
+```
+
+# usecase
+
+- fetch : Promise를 return한다. 뭔가를 가지고 올 때 사용. 보통 직접 Promise를 만들기보단 fetch를 사용하여 다른 사람이 만든 Promise를 사용한다.
+
+```js
+fetch("https://google.com").then(response => console.log(response)).catch(e => console.log("에러 발생! : google.com은 fetch 할 수 없따"));
+// VM1075:1 GET https://google.com/ net::ERR_FAILED
+// google.com은 fetch 할 수 없따
 ```
