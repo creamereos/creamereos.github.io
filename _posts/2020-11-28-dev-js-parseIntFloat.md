@@ -2,7 +2,7 @@
 layout: post
 title: JS - parseInt, parseFloat
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: isNaN
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

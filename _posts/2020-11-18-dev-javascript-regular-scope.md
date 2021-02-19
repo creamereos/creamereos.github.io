@@ -2,7 +2,7 @@
 layout: post
 title: JS - scope
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

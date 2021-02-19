@@ -2,7 +2,7 @@
 layout: post
 title: JS - 생성자와 new
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

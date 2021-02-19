@@ -3,7 +3,7 @@ layout: post
 title: JS - array concat
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 array : 연관된 데이터를 모아서 통으로 관리하기 위해서 사용하는 데이터 타입. 변수가 하나의 데이터를 저장하기 위한 것이라면 배열은 여러 개의 데이터를 하나의 변수에 저장하기 위한 것.

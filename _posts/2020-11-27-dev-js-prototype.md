@@ -2,7 +2,7 @@
 layout: post
 title: JS - prototype
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 함수(function)는 객체(object{})다. 그러므로 생성자(new, constructor)로 사용될 함수도 객체다. 객체는 property를 가질 수 있는데 **prototype**이라는 property는 그 용도가 약속되어 있는 특수한 property다. 

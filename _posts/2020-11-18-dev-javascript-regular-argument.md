@@ -2,7 +2,7 @@
 layout: post
 title: JS - arguments (객체)
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

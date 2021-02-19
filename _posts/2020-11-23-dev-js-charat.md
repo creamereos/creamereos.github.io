@@ -2,7 +2,7 @@
 layout: post
 title: charAt(index)
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

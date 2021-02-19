@@ -2,7 +2,7 @@
 layout: post
 title: JS - this
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 this는 고정된 것을 가리키는 것이 아닌 함수 내에서 함수 호출 맥락(context)를 의미한다. 맥락이라는 것은 상황에 따라서 달라진다는 의미인데 즉 함수를 어떻게 호출하느냐에 따라서 this가 가리키는 대상이 달라진다는 뜻이다. 

@@ -3,7 +3,7 @@ layout: post
 title: JS - function basic
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

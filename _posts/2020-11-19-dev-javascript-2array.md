@@ -2,7 +2,7 @@
 layout: post
 title: JS - 2차원 array
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

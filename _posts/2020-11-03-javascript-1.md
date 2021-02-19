@@ -3,7 +3,7 @@ layout: post
 title: Node JS - 화살표 함수
 subtitle: 
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

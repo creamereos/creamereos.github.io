@@ -3,7 +3,7 @@ layout: post
 title: Node JS -  객체 리터럴
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

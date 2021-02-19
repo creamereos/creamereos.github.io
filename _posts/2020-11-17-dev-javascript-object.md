@@ -3,7 +3,7 @@ layout: post
 title: JS - object
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 만약 인덱스로 문자를 사용하고 싶다면 객체 dictionary를 사용해야 한다. (배열은 인덱스를 숫자로 사용) value를 담는 그릇.

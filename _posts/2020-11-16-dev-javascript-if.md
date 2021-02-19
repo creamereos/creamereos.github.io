@@ -3,7 +3,7 @@ layout: post
 title: JS - if, else, else if, switch
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

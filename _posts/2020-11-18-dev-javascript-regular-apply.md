@@ -2,7 +2,7 @@
 layout: post
 title: JS - 함수의 호출 (apply 메소드)
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: JS - 숫자와 문자
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 ---     
 

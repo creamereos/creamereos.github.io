@@ -2,7 +2,7 @@
 layout: post
 title: JS - 값(object) function callback
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

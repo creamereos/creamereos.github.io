@@ -3,7 +3,7 @@ layout: post
 title: Node JS - Forntend JS
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

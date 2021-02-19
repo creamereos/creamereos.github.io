@@ -3,7 +3,7 @@ layout: post
 title: JS - 정규 표현식
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

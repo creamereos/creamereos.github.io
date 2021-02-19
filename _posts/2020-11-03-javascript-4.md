@@ -3,7 +3,7 @@ layout: post
 title: Node JS - Const / let
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

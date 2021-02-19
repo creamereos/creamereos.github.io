@@ -3,7 +3,7 @@ layout: post
 title: JS - if, while, for, break
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

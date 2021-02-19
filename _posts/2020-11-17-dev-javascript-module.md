@@ -3,7 +3,7 @@ layout: post
 title: JS - module, library, API
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 모듈화 : 각각의 기능을 가진 코드를 여러개의 파일로 분리 후 재활용성을 높이고 유지보수를 쉽게 유지.

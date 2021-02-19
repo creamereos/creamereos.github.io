@@ -2,7 +2,7 @@
 layout: post
 title: JS - 복합 대입 연산자
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

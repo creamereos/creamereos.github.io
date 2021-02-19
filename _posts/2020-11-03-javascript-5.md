@@ -3,7 +3,7 @@ layout: post
 title: Node JS - 구조 분해 할당
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 

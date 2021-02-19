@@ -3,7 +3,7 @@ layout: post
 title: JS - closure
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true
 ---
 

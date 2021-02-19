@@ -3,7 +3,7 @@ layout: post
 title: Node JS - 템플릿 문자열
 subtitle:
 categories: dev
-tags: javascript
+tags: js
 comments: true  
 --- 
 
