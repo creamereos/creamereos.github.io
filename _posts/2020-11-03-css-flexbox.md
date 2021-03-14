@@ -149,6 +149,7 @@ justify-content : flex-end;
 - align-content : flex-wrap이 wrap이라 여러줄이 생기면 align-content 사용해야한다.
 
 - align-content에서만 사용 가능
+
 ~~~
 각 요소 간격들을 동일하게 정렬
 justify-content : space-between;
@@ -167,7 +168,7 @@ justify-content : space-around;
 
 order 값을 주어서 요소의 순서를 자유롭게 바꿀 수 있다.
 
-~~~
+
 order: 1;
 order: 3;
 order: 2;
