@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: JSON.stringify() 21.03.25
+title: JSON.stringify() 21.03.26
 subtitle: 재귀
 categories: dev
 tags: js
