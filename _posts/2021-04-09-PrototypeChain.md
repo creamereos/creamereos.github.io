@@ -156,7 +156,8 @@ terry.sleep(); // 오류 발생 : Student가 Human의 sleep method를 상속 받
 
 ```js
 let Student = function(name) {
-    Human.call(this.name) = name;
+    // 상속
+    Human.call(this, name) = name;
 }
 
 // Student의 prototype에 Human의 prototype을 copy하여 그걸 참조한다.
