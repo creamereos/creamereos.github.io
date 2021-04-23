@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: Prototype Chain JS 21.04.09
+title: Prototype Chain JS 21.04.13
 subtitle: 
 categories: dev
 tags: js

@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: prototype & class JS 21.04.09
+title: prototype & class JS 21.04.12
 subtitle: 
 categories: dev
 tags: js
