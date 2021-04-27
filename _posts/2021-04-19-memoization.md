@@ -88,20 +88,7 @@ let fiboMemo = (n) => {
     return memo[n]
 }
 
-fiboMemo(20); // 재귀 횟수:  19
+fiboMemo(20); // 재귀 횟수: 19
+fiboMemo(50); // 재귀 횟수: 49
 ```
 
-- recursion + memoization + O(N) 알고리즘 
-
-```js
-let fibo = (n) => {
-    let memo = [0, 1];
-    let fiboMemo = (n) => {
-        if (memo[n] !== undefined) {
-            return memo[n];
-        }
-        memo[n] = fiboMemo(n-2) + fiboMemo(n-1);
-    }
-    return memo[n];
-}
-```
